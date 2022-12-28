@@ -1,5 +1,5 @@
 // import ProfileForm from './ProfileForm';
-import AddProduct from './AddProduct';
+// import AddProduct from './AddProduct';
 import classes from './UserProfile.module.css';
 
 const UserProfile = () => {

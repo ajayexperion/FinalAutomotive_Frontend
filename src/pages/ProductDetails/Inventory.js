@@ -1,6 +1,6 @@
 import axios from "axios"
 import { useEffect, useRef, useState } from "react"
-import classes from './UserProfile.module.css';
+import classes from '../UserProfile/UserProfile.module.css';
 
 
 

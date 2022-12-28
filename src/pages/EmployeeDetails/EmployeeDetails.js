@@ -4,10 +4,6 @@ import classes from './EmployeeDetails.module.css';
 // import ChittyManagers from '../EmployeeSheet/SheetDisplay';
 // import { Route } from 'react-router-dom';
 
-
-
-
-
 const EmployeeDetails = () => {
    
     const [selectedFile,setState] = useState(null);
@@ -20,7 +16,7 @@ const EmployeeDetails = () => {
     const emailInputRef = useRef();
     const genderInputRef = useRef();
     const qualificationInputRef = useRef();
-    const useridInputRef = useRef();
+    // const useridInputRef = useRef();
 
 // post method for addemployee starts here
 
